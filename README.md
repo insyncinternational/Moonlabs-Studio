@@ -1,6 +1,6 @@
-# Moonlabs Studio Website
+# Spark Ventures Website
 
-A modern, animated website for Moonlabs Studio - an AI venture builder based in Dubai, UAE.
+A modern, animated website for Spark Ventures - an AI venture builder based in Dubai, UAE.
 
 ## 🚀 Features
 
@@ -143,4 +143,4 @@ MIT License - feel free to use this project for your own ventures!
 
 ---
 
-**Moonlabs Studio** - Building the Future of AI from Dubai to the World 🌍
+**Spark Ventures** - Building the Future of AI from Dubai to the World 🌍

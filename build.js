@@ -3,7 +3,7 @@ const path = require('path');
 
 // Create build script for deployment
 function buildProject() {
-    console.log('🚀 Building Moonlabs Studio for deployment...');
+    console.log('🚀 Building Spark Ventures for deployment...');
     
     // Create dist directory
     const distDir = 'dist';
@@ -46,27 +46,27 @@ function createOptimizedIndex() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moonlabs Studio - Building the Future of AI from Dubai</title>
-    <meta name="description" content="Moonlabs Studio is a venture builder in the UAE that transforms visionary founders into CEOs of high-growth AI companies.">
+    <title>Spark Ventures - Building the Future of AI from Dubai</title>
+    <meta name="description" content="Spark Ventures is a venture builder in the UAE that transforms visionary founders into CEOs of high-growth AI companies.">
     <meta name="keywords" content="AI, venture builder, startup, Dubai, UAE, artificial intelligence, entrepreneurship">
-    <meta property="og:title" content="Moonlabs Studio - Building the Future of AI">
+    <meta property="og:title" content="Spark Ventures - Building the Future of AI">
     <meta property="og:description" content="Transform your AI idea into a high-growth company with our team, capital, and ecosystem.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://moonlabs.studio">
+    <meta property="og:url" content="https://sparkventures.ai">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Moonlabs Studio - Building the Future of AI">
+    <meta name="twitter:title" content="Spark Ventures - Building the Future of AI">
     <meta name="twitter:description" content="Transform your AI idea into a high-growth company with our team, capital, and ecosystem.">
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" href="Spark Ventures logo black.png">
 </head>
 <body>
     <!-- Navigation -->
     <nav class="navbar">
         <div class="nav-container">
             <div class="nav-logo">
-                <h2>Moonlabs Studio</h2>
+                <img src="Spark Ventures logo black.png" alt="Spark Ventures" class="logo-img">
             </div>
             <ul class="nav-menu">
                 <li><a href="index.html" class="nav-link active">Home</a></li>
@@ -89,7 +89,7 @@ function createOptimizedIndex() {
         <div class="hero-container">
             <div class="hero-content">
                 <h1 class="hero-headline">Building the Future of AI, from Dubai to the World</h1>
-                <p class="hero-subheadline">Moonlabs Studio is a venture builder in the UAE that transforms visionary founders into CEOs of high-growth AI companies. We provide the team, the capital, and the ecosystem to turn your idea into reality.</p>
+                <p class="hero-subheadline">Spark Ventures is a venture builder in the UAE that transforms visionary founders into CEOs of high-growth AI companies. We provide the team, the capital, and the ecosystem to turn your idea into reality.</p>
                 <div class="hero-buttons">
                     <a href="bootcamp.html" class="btn btn-primary">Apply to the AI Bootcamp</a>
                     <a href="founders.html" class="btn btn-secondary">For Founders</a>
@@ -196,7 +196,7 @@ function createOptimizedIndex() {
         <div class="container">
             <div class="uae-content">
                 <h2>The Perfect Launchpad for Global Ambition</h2>
-                <p>The UAE is not just a location; it's a strategy. With visionary government support through the National Program for Artificial Intelligence, a thriving tech ecosystem, and its strategic position as a global hub, there is no better place to build a world-changing AI company. Moonlabs Studio is at the epicenter of this movement.</p>
+                <p>The UAE is not just a location; it's a strategy. With visionary government support through the National Program for Artificial Intelligence, a thriving tech ecosystem, and its strategic position as a global hub, there is no better place to build a world-changing AI company. Spark Ventures is at the epicenter of this movement.</p>
                 <div class="uae-features">
                     <div class="feature">
                         <i class="fas fa-landmark"></i>
@@ -229,7 +229,7 @@ function createOptimizedIndex() {
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h3>Moonlabs Studio</h3>
+                    <h3>Spark Ventures</h3>
                     <p>Building the future of AI from Dubai to the world.</p>
                 </div>
                 <div class="footer-section">
@@ -244,11 +244,11 @@ function createOptimizedIndex() {
                 <div class="footer-section">
                     <h4>Contact</h4>
                     <p>Dubai, UAE</p>
-                    <p>hello@moonlabs.studio</p>
+                    <p>hello@sparkventures.ai</p>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Moonlabs Studio. All rights reserved.</p>
+                <p>&copy; 2024 Spark Ventures. All rights reserved.</p>
             </div>
         </div>
     </footer>
