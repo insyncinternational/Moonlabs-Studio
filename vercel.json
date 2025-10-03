@@ -3,14 +3,8 @@
   "name": "moonlabs-studio",
   "builds": [
     {
-      "src": "dist/**/*",
+      "src": "**/*",
       "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/dist/$1"
     }
   ],
   "headers": [
